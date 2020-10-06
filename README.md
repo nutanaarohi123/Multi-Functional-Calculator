@@ -1,6 +1,8 @@
 ## Multi-Functional-Calculator🧮
 Multi-Functional Calculator using HTML, CSS and JAVA SCRIPT. It includes all the required functions. 
 
+![](https://github.com/nutanaarohi123/Multi-Functional-Calculator/blob/gh-pages/CaptureCalc.PNG)
+
 ## How it is different from simple Calculator?🤷‍♀️
  It includes various additional functions apart from operators (+-*/).
  

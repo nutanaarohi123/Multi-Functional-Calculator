@@ -19,7 +19,7 @@ Multi-Functional Calculator using HTML, CSS and JAVA SCRIPT. It includes all the
 - Download the entire code.
 - Open up the index.html.
 
-## How to operate the Calcultor
+## How to operate the Calculator
    Visit [Instruction.md](https://github.com/nutanaarohi123/Multi-Functional-Calculator/blob/gh-pages/Instruction.md)
 
 ## If you want to contribute to this project🤷‍♂️ 

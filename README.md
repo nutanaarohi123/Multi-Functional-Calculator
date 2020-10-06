@@ -23,7 +23,7 @@ Multi-Functional Calculator using HTML, CSS and JAVA SCRIPT. It includes all the
   - If your PR is accepted , it will be merged to master.🎉
  
  ## Good project for beginner😍😍
- - The logic is very simple with the minimum lines of code possible ✨
+ - The logic is very simple with the minimum lines of code possible. ✨
  
  
 

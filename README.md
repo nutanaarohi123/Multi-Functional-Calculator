@@ -6,7 +6,7 @@ Multi-Functional Calculator using HTML, CSS, and JAVASCRIPT. It includes all the
 ## How is it different from a simple Calculator?🤷‍♀️
  It includes various additional functions apart from operators (+-%*/).
  
- It include various important function like exp(), ceil(), floor(), log(), ln(), abs(), sin(), cos(), tan(), dec(), per(), x^2, x^3 and even include the temperature converter Celsius to Kelvin, Fahrenheit to Celsius, Celsius to Fahrenheit
+Include important functions like exp(), ceil(), floor(), log(), ln(), abs(), sin(), cos(), tan(), dec(), per(), x^2, x^3 and even include the temperature converter Celsius to Kelvin, Fahrenheit to Celsius, Celsius to Fahrenheit
  You can see the date and time set according to ISD at the bottom of the calculator.⌚
  
  

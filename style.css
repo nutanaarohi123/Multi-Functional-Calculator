@@ -107,6 +107,9 @@ button:nth-child(13){
 	background-color: #f09191;
 	font-weight: bold;
 }
+button:nth-child(10){
+	font-size: 10px;
+}
 button:nth-child(12){
 	border-radius: 80%;
 	font-size: 15px;

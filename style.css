@@ -97,6 +97,11 @@ button:nth-child(13){
 	font-size: 16px;
 	
 }
+button:nth-child(10){
+	font-size: 19px;
+	border-radius: 55%
+	
+}
 button:nth-child(35){
 	font-size: 20px;
 	background-color: #ffa500;

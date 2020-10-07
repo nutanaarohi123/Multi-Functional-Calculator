@@ -71,7 +71,7 @@ color: rgb(26, 22, 22);
 	width: 30px;
 	height: 30px;
 	margin: 10px;
-	float: left;
+	text-align: center;
 	border-radius: 52%;
 	border-width: 0;
 	font-weight: normal;
@@ -95,11 +95,6 @@ color: rgb(26, 22, 22);
 }
 button:nth-child(13){
 	font-size: 16px;
-	
-}
-button:nth-child(10){
-	font-size: 19px;
-	border-radius: 55%
 	
 }
 button:nth-child(35){

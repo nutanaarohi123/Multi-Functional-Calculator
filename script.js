@@ -178,7 +178,7 @@ for(var i =0;i<operator.length;i++){
 		} 
 		else if(this.id=="(-1)"){
 			printOutput("-");
-			printHistory("");
+			printHistory(getHistory());
 		}
 		else if(this.id=="e"){
 			var p=reverseNumberFormat(getOutput()).toString();
@@ -261,7 +261,7 @@ for(var i =0;i<number.length;i++){
 		else if(output[output.length-1]=="-"){
 			output=output.substr(0,output.length)+this.id;
 			printOutput(output);
-			printHistory("");
+			printHistory(getHistory());
 		}
 		else{
 		var output=reverseNumberFormat(getOutput());

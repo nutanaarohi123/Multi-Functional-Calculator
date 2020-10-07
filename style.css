@@ -28,8 +28,7 @@ color: rgb(26, 22, 22);
 	width: 650px;
 	height: 693px;
 	background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(bg78.png);
-	margin: 60px auto;	
-	align-content: center;	
+	margin: 60px auto;		
 }
 #calculator{
 	width: 260px;
@@ -40,7 +39,6 @@ color: rgb(26, 22, 22);
 	position: relative;
 	border-radius: 15px;
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-	text-align: center;
 }
 #result{
 	height: 120px;
@@ -108,7 +106,7 @@ button:nth-child(13){
 	font-weight: bold;
 }
 button:nth-child(10){
-	font-size: 10px;
+	font-size: 11px;
 	font-weight: bold;
 }
 button:nth-child(12){

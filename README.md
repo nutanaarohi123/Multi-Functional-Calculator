@@ -21,6 +21,9 @@ Include important functions like exp(), ceil(), floor(), log(), ln(), abs(), sin
 
 ## How to operate the Calculator
    Visit [Instruction.md](https://github.com/nutanaarohi123/Multi-Functional-Calculator/blob/gh-pages/Instruction.md)
+   
+## Link to use calculator🔗
+   Click [Calculator](https://nutanaarohi123.github.io/Multi-Functional-Calculator/)
 
 ## If you want to contribute to this project🤷‍♂️ 
   - fork this repo.
